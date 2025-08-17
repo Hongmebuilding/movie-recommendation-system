@@ -36,7 +36,7 @@ cosine_similarity(A, B) = (A · B) / (||A|| × ||B||)
 ---
 </br>
 
-# book-recommendation-system
+# book-recommendation-system - by Liam Song
 https://www.kaggle.com/code/leesumin98/book-recommend-system-0c824f
 
 
